@@ -1,4 +1,4 @@
-Sure, let's go through the program line by line:
+ let's go through the program line by line:
 
 ```python
 from tkinter import *
